@@ -1,0 +1,14 @@
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\MainWindow.g.cs
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\App.g.cs
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau_MarkupCompile.cache
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau_MarkupCompile.lref
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\bin\Debug\TesteWPFItau.exe.config
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\bin\Debug\TesteWPFItau.exe
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\bin\Debug\TesteWPFItau.pdb
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\MainWindow.baml
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.g.resources
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.Properties.Resources.resources
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.csproj.GenerateResource.cache
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.csproj.CoreCompileInputs.cache
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.exe
+C:\Users\Flp_n\source\repos\TesteWPFItau\TesteWPFItau\obj\Debug\TesteWPFItau.pdb
